@@ -1,1 +1,1 @@
-alert('ok')
+console.log('js/app.js loaded')
